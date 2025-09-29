@@ -1,7 +1,7 @@
 # Speaker Identification & Verification with GMM-MFCC
 
 This project implements a **speaker identification and verification system** using **Gaussian Mixture Models (GMM)** and **Mel-Frequency Cepstral Coefficients (MFCC)**.  
-It was developed as part of the *Synthèse Vocale* module at the **EuroMed University of Fez (EIDIA, 2024-2025)**.
+
 
 ## Overview
 - **Goal:** Distinguish and authenticate speakers by their unique vocal characteristics.  
